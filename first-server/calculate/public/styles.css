@@ -1,0 +1,32 @@
+body {
+    background-image: url(logo.ico);
+}
+
+table {
+    border: 2px solid black;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: black;
+}
+
+input[type="button"] {
+    width: 100%;
+    padding: 20px 40px;
+    background-color: rgb(51, 41, 152);
+    color: white;
+    font-size: 24px;
+    font-weight: bold;
+    border: none;
+    border-radius: 5px;
+}
+
+input[type="text"] {
+    padding: 20px 30px;
+    font-size: 24px;
+    font-weight: bold;
+    border: none;
+    border-radius: 5px;
+    border: 2px solid black;
+}
+
+
